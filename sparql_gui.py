@@ -8,8 +8,6 @@ class SPARQLGUI:
 		sg.theme('DarkAmber')   # Add a touch of color
 		self.font = ("Courier New", 12) # Extra font to use
 		self.sq = SPARQLQuery()
-		# results = sq.run_query(sq.graph)
-		# sq.write_results(results)
 		self.main_window()
 
 	def display_output(self, output):
