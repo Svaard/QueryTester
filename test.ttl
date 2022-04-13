@@ -1,0 +1,18 @@
+@prefix dc:   <http://purl.org/dc/elements/1.1/> .
+@prefix :     <http://example.org/book/> .
+@prefix ns:   <http://example.org/ns#> .
+
+:book1  dc:title  "SPARQL Tutorial" .
+:book1  ns:price  11 .
+:book2  dc:title  "The Semantic Web" .
+:book2  ns:price  07 .
+:book3  dc:title  "The Lusty Argonian Maid" .
+:book3  ns:price  500 .
+:book4  dc:title  "Lord of the Rings" .
+:book4  ns:price  77 .
+:book5  dc:title  "The Hitchhiker's Guide to the Galaxy" .
+:book5  ns:price  42 .
+:book6  dc:title  "The Good Thief" .
+:book6  ns:price  20 .
+:book7  dc:title  "On Oblivion" .
+:book7  ns:price  420 .
